@@ -3,7 +3,7 @@ html {
 }
 
 body {
-    background-image: url("../img/geometry2.png")
+    background-image: url("/static/media/img/geometry2.png")
 }
 
 .title {
